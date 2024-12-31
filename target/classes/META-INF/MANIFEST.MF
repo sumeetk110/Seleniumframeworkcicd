@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: LENOVO
 Build-Jdk: 17.0.6
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> bbe0ae4 (Initial commit)

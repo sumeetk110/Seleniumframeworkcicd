@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Landing Page Suite">
+  <test thread-count="1" name="Form Submission Test">
+    <classes>
+      <class name="First.Demo1.LandingPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
